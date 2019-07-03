@@ -1,0 +1,38 @@
+* {
+  background-color: seashell;
+  line-height: 1.7em;
+}
+
+body {
+  color: steelblue;
+  font-family: arial, helvetica, sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+hr {
+  padding: 1px;
+}
+
+.box {
+  float: left;
+  width:10%;
+
+  border: 1px black solid;
+  color: darkblue;
+  margin: auto;
+}
+
+.clr {
+  clear:both;
+}
+
+.float-container {
+  width: 80%;
+  margin: auto;
+}
